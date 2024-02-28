@@ -1,0 +1,5 @@
+mediapipe>=0.8.9
+opencv-python>=4.5.5
+sounddevice>=0.4.4
+virtualenv>=20.13
+matplotlib
