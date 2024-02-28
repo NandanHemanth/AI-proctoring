@@ -69,7 +69,7 @@ def process():
                     PERCENTAGE_CHEAT = avg(0.6, PERCENTAGE_CHEAT)
                 else:
                     PERCENTAGE_CHEAT = avg(0.85, PERCENTAGE_CHEAT)
-            else:
+            else: 
                 if audio.AUDIO_CHEAT == 0:
                     PERCENTAGE_CHEAT = avg(0.5, PERCENTAGE_CHEAT)
                 else:

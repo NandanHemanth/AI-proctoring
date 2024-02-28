@@ -2,7 +2,7 @@
 import sounddevice as sd
 import numpy as np
 
-# place holders and global variables
+# place holders and global variables 
 SOUND_AMPLITUDE = 0
 AUDIO_CHEAT = 0
 

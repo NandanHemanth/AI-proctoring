@@ -16,4 +16,4 @@ if __name__ == "__main__":
 
     head_pose_thread.join()
     audio_thread.join()
-    detection_thread.join()
+    detection_thread.join() 
