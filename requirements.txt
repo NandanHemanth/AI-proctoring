@@ -3,3 +3,4 @@ opencv-python>=4.5.5
 sounddevice>=0.4.4
 virtualenv>=20.13
 matplotlib
+numpy
